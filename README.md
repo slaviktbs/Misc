@@ -20,7 +20,10 @@ My contribution was the development of an alternating current electric generator
 - Insulated wire wound around the housing
 - Shaft with a magnet attached to it inside the housing 
 
-_How it was made:_
+_How it was made:
+
+
+How it was made_
 
 ![](./electric_genrator/images/Bootcamp-58.png)
 
